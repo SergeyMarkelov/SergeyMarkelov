@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[linkedin]: https://www.linkedin.com/in/malgorzata-szopa/](https://www.linkedin.com/in/sergey-markelov-733263245
+[linkedin]: https://www.linkedin.com/in/sergey-markelov-733263245
