@@ -13,7 +13,7 @@ I'm Sergey, a 27 years old developer from Ukraine.
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyMarkelov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMarkelov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/sergey-markelov-733263245
