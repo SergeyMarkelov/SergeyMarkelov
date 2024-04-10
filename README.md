@@ -3,8 +3,8 @@
 I'm Sergey, a 27 years old developer from Ukraine.
 
 ## Skills
-- 👨‍💻 Java, Spring Boot and GO.
-- 💽 MySQL, MSSQL, SQL
+- 👨‍💻 Python, Java and GO.
+- 💽 MySQL
 ## Contact
 [<img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linkedin/linkedin-original.svg" />][linkedin]
 <br />
