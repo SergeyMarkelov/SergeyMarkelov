@@ -1,6 +1,7 @@
 
 ## Hey! 👋
-I'm Sergey, a 27 years old developer from Ukraine.
+I'm Sergey, 
+I'm passionate WSB Student | Coding for Personal Growt
 
 ## Skills
 - 👨‍💻 Python, Java and GO.
