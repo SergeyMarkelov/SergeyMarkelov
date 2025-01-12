@@ -5,7 +5,7 @@ I'm passionate WSB Student | Coding for Personal Growt
 
 ## Skills
 - 👨‍💻 Python, Java and GO.
-- 💽 MySQL
+- 💽 MsSQL
 ## Contact
 [<img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linkedin/linkedin-original.svg" />][linkedin]
 <br />
