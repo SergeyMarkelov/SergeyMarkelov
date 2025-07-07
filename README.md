@@ -1,10 +1,10 @@
 
 ## Hey! 👋
 I'm Sergey, 
-I'm passionate WSB Student | Coding for Personal Growt
+I'm passionate WSB Student | Coding for Personal Growth
 
 ## Skills
-- 👨‍💻 Python, Java and GO.
+- 👨‍💻 Python, Powershell, Java and GO.
 - 💽 MsSQL
 ## Contact
 [<img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linkedin/linkedin-original.svg" />][linkedin]
