@@ -1,22 +1,34 @@
+# 👋 Hi, I'm Sergey
 
-## Hey! 👋
-I'm Sergey, 
-I'm passionate WSB Student | Coding for Personal Growth
+👩🏻‍💻 Helpdesk specialist  
+🎓 Future DevOps/SRE  
+💻 Currently pursing my postgraduate degree at WSB Merito Wrocław as Cloud DevOps Engineer Expert  
+🚀 Passionate about system reliability, cloud solutions, and continuous learning  
 
-## Skills
-- 👨‍💻 Python, Powershell, Java and GO.
-- 💽 MsSQL
-## Contact
-[<img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linkedin/linkedin-original.svg" />][linkedin]
-<br />
+---
+I'm currently expanding my skills in:
+- **Azure & AWS**
+- **Terraform, Kubernetes**
+- **CI/CD & Monitoring**
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+## 🛠️ Tech Stack
 
-<br />
+- 👩🏻‍💻 Python, PowerShell, Java, Go  
+- 🐳 Docker, Azure (VM, VMSS, Blob, VNet, etc.), Intune  
+- 📊 Grafana, Telegraf  
+- 🛡️ Entra ID, Active Directory, Windows Server
+- 🛢️ MSSQL, InfluxDB
+- 🚨 Jira, ServiceNow
+
+---
+
+## 📫 Contact
+
+🔗 [LinkedIn – sergey-markelov-gd](https://www.linkedin.com/in/sergey-markelov-gd)  
+📧 sergey.markelov.gd@gmail.com  
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyMarkelov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[linkedin]: https://www.linkedin.com/in/sergey-markelov-733263245
-
 
